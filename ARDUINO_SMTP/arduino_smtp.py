@@ -1,6 +1,7 @@
 '''
-Created on 14/10/2013
-@author: Ivan Aliaga
+   Creada por Ivan Aliaga, el 14 de Octubre del 2013
+   Arduino + Python - Envíar un correo electrónico
+   Tutorial para http://www.geekytheory.com
 '''
 # -*- encoding: utf-8 -*-
 
