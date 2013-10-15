@@ -12,7 +12,7 @@ import smtplib
 USUARIO_GMAIL = 'micorreo@gmail.com'
 CONTRASENA_GMAIL = 'micontraseña'
 
-DESTINATARIO = 'destinatorio@dominio.com'
+DESTINATARIO = 'destinatario@dominio.com'
 REMITENTE = 'micorreo@gmail.com'
 
 ASUNTO  = ' ¡ Hay un intruso en su hogar. ! '
