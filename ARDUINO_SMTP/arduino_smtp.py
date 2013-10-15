@@ -46,3 +46,4 @@ while True:
         enviar_correo_electronico()                     #Envío un correo electrónico 
     time.sleep(0.5)                                     #Suspende la ejecución por 0.5 segundos   
 
+# EOF
